@@ -9,8 +9,8 @@
       "style": {
         "background.appearance": "blurred",
 
-        "background": "#1F1F28b8",
-        "surface.background": "#1F1F28b8",
+        "background": "#16161Dc8",
+        "surface.background": "#16161Dc0",
         "elevated_surface.background": "#16161D",
 
         "border": "#00000000",
@@ -45,18 +45,18 @@
         "icon.placeholder": "#727169",
         "icon.accent": "#957FB8",
 
-        "status_bar.background": "#16161Db8",
-        "title_bar.background": "#16161Db8",
-        "title_bar.inactive_background": "#16161Db8",
+        "status_bar.background": "#16161Dd8",
+        "title_bar.background": "#16161Dd0",
+        "title_bar.inactive_background": "#16161Dd0",
 
-        "toolbar.background": "#00000000",
-        "tab_bar.background": "#00000000",
-        "tab.inactive_background": "#00000000",
+        "toolbar.background": "#16161D10",
+        "tab_bar.background": "#16161D18",
+        "tab.inactive_background": "#16161D10",
         "tab.active_background": "#2A2A37",
 
         "search.match_background": "#2D4F6750",
 
-        "panel.background": "#00000000",
+        "panel.background": "#16161D38",
         "panel.focused_border": "#00000000",
         "panel.indent_guide": "#2A2A37",
         "panel.indent_guide_active": "#54546D",
@@ -72,8 +72,8 @@
         "scrollbar.track.border": "#00000000",
 
         "editor.foreground": "#DCD7BA",
-        "editor.background": "#00000000",
-        "editor.gutter.background": "#00000000",
+        "editor.background": "#16161D48",
+        "editor.gutter.background": "#16161D48",
         "editor.subheader.background": "#16161D",
         "editor.active_line.background": "#00000000",
         "editor.highlighted_line.background": "#2A2A3730",
@@ -88,7 +88,7 @@
         "editor.document_highlight.write_background": "#36364650",
         "editor.document_highlight.bracket_background": "#36364640",
 
-        "terminal.background": "#00000000",
+        "terminal.background": "#16161D48",
         "terminal.foreground": "#DCD7BA",
         "terminal.bright_foreground": "#DCD7BA",
         "terminal.dim_foreground": "#727169",
