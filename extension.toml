@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.1.0"
 authors = ["Sai Nimmagadda <https://github.com/funsaized>"]
 description = "Kanagawa Wave dark theme with blur/transparency effects. Inspired by the colors of the famous painting by Katsushika Hokusai."
-repository = "https://github.com/funsaized/kanagawa-wave-blur"
+repository = "https://github.com/funsaized/kanagawa-zed-theme"
