@@ -1,31 +1,29 @@
-# Kanagawa Zed Themes
+# Kanagawa for Zed
 
-Zed themes inspired by the [Kanagawa VS Code theme](https://github.com/metapho-re/kanagawa-vscode-theme). Based on the colors of the famous painting by Katsushika Hokusai.
+Zed themes from the [Kanagawa](https://github.com/rebelot/kanagawa.nvim) palette, based on Hokusai's *Great Wave off Kanagawa*.
 
-### Wave (Dark)
+| Theme | Appearance |
+| --- | --- |
+| **Wave** | Dark. Official sumi-ink background. |
+| **Wave Blur** | Dark, transparent, `background.appearance: blurred`. |
+| **Dragon** | Darker, warmer, lower saturation. Easier on the eyes for long sessions. |
+| **Lotus** | Light. Warm parchment. |
 
-Dark theme with blur/transparency effects.
+### Wave
 
 ![Wave Dark Theme](./art/wave_dark.png)
 
-### Lotus (Light)
-
-Light theme with warm, muted tones.
+### Lotus
 
 ![Lotus Light Theme](./art/wave_light.png)
 
-## Installation
+## Install
 
-1. Open `Command Palette`
-2. Select `zed: extensions`
-3. Search `Kanagawa`
+1. Command Palette → `zed: extensions`
+2. Search `Kanagawa`
 
-## Activate Theme
+Or clone this repo into `~/.config/zed/themes/` while developing.
 
-1. Open `Command Palette`
-2. Select `theme selector: toggle`
-3. Search `Kanagawa Wave Blur` or `Kanagawa Lotus`
+## Activate
 
-## Contributing
-
-Feel free to fork, make changes, and submit a pull request.
+Command Palette → `theme selector: toggle` → `Kanagawa Wave`, `Kanagawa Wave Blur`, `Kanagawa Dragon`, or `Kanagawa Lotus`.

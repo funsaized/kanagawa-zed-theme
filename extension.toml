@@ -1,7 +1,7 @@
 id = "kanagawa-wave-blur-theme"
-name = "Kanagawa Wave Blur"
+name = "Kanagawa"
 schema_version = 1
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Sai Nimmagadda <https://github.com/funsaized>"]
-description = "Kanagawa color themes for Zed, featuring Wave (dark with blur) and Lotus (light) variants. Inspired by the famous painting by Katsushika Hokusai."
+description = "Kanagawa for Zed — Wave, Wave Blur, Dragon, and Lotus. Colors of Hokusai's Great Wave."
 repository = "https://github.com/funsaized/kanagawa-zed-theme"
