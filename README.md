@@ -14,9 +14,13 @@ Dark. The original Kanagawa look: sumi-ink `#1F1F28`, fuji-white text, violet ke
 
 Same syntax as Wave, but chrome is transparent with `background.appearance: blurred`. Needs a compositor that actually blurs (Hyprland, macOS). Popovers stay solid so menus stay readable.
 
+![Wave Blur Theme](./art/wave_blur.png)
+
 ### Dragon
 
 Darker and warmer than Wave (`#181616`), with lower saturation. Same syntax roles, quieter colors. Built for long sessions.
+
+![Wave Dragon Theme](./art/wave_dragon.png)
 
 ### Lotus
 
